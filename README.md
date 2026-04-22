@@ -1,56 +1,67 @@
-<!-- ████████████████████████████████████████████████████████████████
-     DYNAMIC HEADER — color shifts automatically with time of day
-     ████████████████████████████████████████████████████████████████ -->
+<!-- ┌──────────────────────────────────────────────────────────────────┐
+     │  HEADER — gradient auto-rotates color by time of day           │
+     └──────────────────────────────────────────────────────────────────┘ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=280&section=header&text=Farhan%20Naeem&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Architect%20of%20Full-Stack%20Systems%20%7C%20Engineer%20of%20AI-Powered%20Products&descAlignY=60&descSize=16&descColor=dde1e7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=260&section=header&text=Farhan%20Naeem&fontSize=74&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20%2B%20AI%20Engineer%20%E2%80%94%20Building%20intelligent%20systems%20that%20ship%20to%20production%20and%20solve%20real%20problems&descAlignY=63&descSize=13&descColor=dde1e7" width="100%"/>
 
-<!-- ─── LIVE STATUS STRIP ─── -->
+<!-- ─── TYPING SVG ─── -->
 <div align="center">
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=820&lines=🧠+Building+AI+products+that+solve+real+problems.;⚡+Full-Stack+Engineer+%7C+MERN+%7C+LangChain+%7C+LangGraph;🔬+Deep+Learning+%7C+PyTorch+%7C+HuggingFace+%7C+RAG+Systems;🚀+I+own+the+entire+stack+—+DB+to+Frontend+to+AI+Layer.;🤝+Open+to+Collaborations%2C+Freelance+%26+Startups.)](https://github.com/farhannaeem00)
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Engineered+AI+SaaS+products+%E2%80%94+deployed%2C+live%2C+production-scale.;MERN+%C2%B7+LangChain+%C2%B7+LangGraph+%C2%B7+PyTorch+%C2%B7+RAG+%C2%B7+Agentic+AI.;I+own+the+full+stack+%E2%80%94+schema+design+to+deployed+AI+inference.;Turning+complex+technical+problems+into+products+people+use.)](https://github.com/farhannaeem00)
 
 </div>
 
+<!-- ─── CONTACT STRIP ─── -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan%20Naeem-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-naeem-297bb1373)
-[![Gmail](https://img.shields.io/badge/Gmail-farhan.naeem874-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:farhan.naeem874@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-farhannaeem00-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/farhannaeem00)
+[![Email](https://img.shields.io/badge/Email-farhan.naeem874-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:farhan.naeem874@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=farhannaeem00&style=flat-square&color=6366f1&label=Profile+Views)](https://github.com/farhannaeem00)
 [![Followers](https://img.shields.io/github/followers/farhannaeem00?style=flat-square&color=22c55e&label=Followers&logo=github)](https://github.com/farhannaeem00?tab=followers)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&logo=statuspage&logoColor=white)](#)
+[![Status](https://img.shields.io/badge/Available-Open%20to%20Collaborate-22c55e?style=flat-square&logo=statuspage&logoColor=white)](#-lets-connect)
 
 </div>
 
----
+<br/>
+
+<!-- ─── AT-A-GLANCE STATS STRIP ─── -->
+<div align="center">
+
+![Repos](https://img.shields.io/badge/Public%20Repos-14%2B-6366f1?style=for-the-badge&logo=github&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-MERN%20%2B%20AI%20%2B%20ML-0ea5e9?style=for-the-badge&logo=stackshare&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-AI%20SaaS%20%26%20Agentic%20Systems-8b5cf6?style=for-the-badge&logo=openai&logoColor=white)
+![Response](https://img.shields.io/badge/Response-Within%2024h-22c55e?style=for-the-badge&logo=minutemailer&logoColor=white)
+
+</div>
 
 <br/>
 
-<!-- ─── WHO AM I ─── -->
-## 🧬 `> whoami`
+---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="coding gif"/>
+## `> whoami`
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="285px" alt="coding"/>
 
 ```typescript
-const farhan: Developer = {
-  name        : "Farhan Naeem",
-  title       : ["Full-Stack Developer", "AI Engineer", "Builder"],
-  education   : "BS Computer Science 🎓",
-  location    : "Pakistan 🇵🇰",
+const farhan: Engineer = {
+  name       : "Farhan Naeem",
+  role       : ["Full-Stack Engineer", "AI Systems Builder", "Product Architect"],
+  education  : "BS Computer Science 🎓",
+  location   : "Pakistan 🇵🇰",
 
-  expertise: {
-    web       : ["React", "Node.js", "Express", "MongoDB", "REST APIs"],
-    ai_ml     : ["LangChain", "LangGraph", "PyTorch", "HuggingFace", "RAG"],
-    languages : ["JavaScript", "TypeScript", "Python"],
-    tools     : ["Vercel", "MongoDB Atlas", "Git", "GitHub Actions"],
+  stack: {
+    web      : ["React", "Node.js", "Express", "MongoDB", "REST APIs"],
+    ai_ml    : ["LangChain", "LangGraph", "PyTorch", "HuggingFace", "RAG"],
+    languages: ["JavaScript", "TypeScript", "Python"],
+    infra    : ["Vercel", "MongoDB Atlas", "Git", "GitHub Actions"],
   },
 
-  currentFocus  : "AI-powered SaaS & Agentic Systems",
-  openTo        : ["Collaborations", "Freelance", "Startups", "Open Source"],
+  shipping   : "AI-powered SaaS & production-grade agentic systems",
+  openTo     : ["Collaborations", "Freelance", "Startups", "Open Source"],
 
-  philosophy    : `"I don't just write code.
-                   I architect systems that ship,
-                   scale, and create real impact."`,
+  principle  : "Code is a means, not the end. " +
+               "I engineer systems that scale, ship, " +
+               "and create measurable real-world impact.",
 };
 ```
 
@@ -58,156 +69,157 @@ const farhan: Developer = {
 
 ---
 
-<!-- ─── CORE SKILLS ─── -->
-## ⚡ Core Expertise
+## ⚡ What I Build
 
 <div align="center">
 
-|  | Domain | What I Deliver |
+| | Capability | Delivered As |
 |:---:|:---|:---|
-| 🌐 | **Full-Stack Engineering** | Production MERN apps — auth systems, background processing, REST APIs, cloud deployment |
-| 🤖 | **AI / LLM Integration** | Real AI products using LangChain & LangGraph — not demos, actual shipped tools |
-| 🧠 | **ML & Deep Learning** | PyTorch models for NLP, classification, and computer vision from training to inference |
-| 🕸️ | **Agentic AI Systems** | Multi-step reasoning agents that plan, execute, and self-correct in complex workflows |
-| ☁️ | **Cloud & Deployment** | Zero-downtime deployments on Vercel with MongoDB Atlas — scalable at zero cost |
+| 🏗️ | **AI-Powered SaaS Platforms** | End-to-end products with LLM pipelines, async processing, and real users |
+| 🕸️ | **Agentic AI Workflows** | LangGraph-orchestrated multi-step agents that reason, plan, and self-correct |
+| 🌐 | **Full-Stack Web Systems** | Production MERN architecture — JWT auth, background jobs, REST APIs, cloud deployed |
+| 🧠 | **ML & Deep Learning Systems** | PyTorch models from architecture through training, evaluation, and inference |
+| 🔗 | **LLM Integration Layers** | RAG pipelines, vector memory, and Groq-accelerated inference inside real products |
 
 </div>
 
 ---
 
-<!-- ─── TECH STACK ─── -->
 ## 🧰 Tech Stack
 
 <div align="center">
 
-### 🌐 Web & Full-Stack
+**Web & Full-Stack**
+<br/>
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,html,css,vite&theme=dark&perline=10"/>
 
-### 🤖 AI / ML Engineering
+<br/><br/>
+
+**AI / ML Engineering**
+<br/>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark&perline=10"/>
 
-&nbsp;
+<br/>
+
 [![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)](https://python.langchain.com)
 [![LangGraph](https://img.shields.io/badge/🕸_LangGraph-6366F1?style=for-the-badge)](https://langchain-ai.github.io/langgraph)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co)
 [![Groq](https://img.shields.io/badge/⚡_Groq_AI-F55036?style=for-the-badge)](https://groq.com)
 
-### ⚙️ Tools & Infrastructure
+<br/><br/>
+
+**Infrastructure & Tooling**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,linux&theme=dark&perline=10"/>
 
 </div>
 
 ---
 
-<!-- ─── CURRENTLY BUILDING ─── -->
-## 🔭 Currently Working On
+## 🔭 Currently Shipping
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                    🛠  ACTIVE DEVELOPMENT                           │
-│                                                                     │
-│  ► Expanding AI SaaS product lineup with RAG-powered pipelines      │
-│  ► Building multi-agent orchestration systems with LangGraph        │
-│  ► Deepening expertise in production-grade PyTorch model training   │
-│  ► Exploring vector databases (Pinecone, Chroma) for AI memory      │
-│                                                                     │
-│  📚  Currently Learning:                                            │
-│     → Advanced Agentic AI Patterns                                  │
-│     → LLM Fine-tuning & PEFT techniques                             │
-│     → System Design for AI-native applications                      │
-└─────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   ►  RAG pipelines with Pinecone & Chroma for AI SaaS products  │
+│   ►  LangGraph multi-agent orchestration for complex workflows   │
+│   ►  Production-grade PyTorch training & model evaluation        │
+│   ►  LLM fine-tuning experiments with PEFT / LoRA techniques     │
+│                                                                  │
+│   Deepening mastery in:                                          │
+│      → Advanced Agentic AI architecture patterns                 │
+│      → System design for AI-native, high-throughput applications │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-<!-- ─── FEATURED PROJECTS ─── -->
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
 <div align="center">
 
-### 🔐 ContractSense — AI-Powered Contract Intelligence Platform
-> *Full-stack SaaS that analyzes legal contracts using LLMs — zero lawyers needed.*
+### ContractSense — AI Contract Intelligence Platform
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4F46E5?style=for-the-badge)](https://contractsenseclient.vercel.app)
-[![Backend](https://img.shields.io/badge/🔗_API_Backend-10B981?style=for-the-badge)](https://contractsense-seven.vercel.app)
-[![Repo](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/farhannaeem00/contractsense)
+> *Legal contract review costs $200–$500/hour. ContractSense eliminates that barrier —
+> upload any contract, receive full AI-powered risk analysis in under 60 seconds.*
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://contractsenseclient.vercel.app)
+[![API Backend](https://img.shields.io/badge/API_Backend-10B981?style=for-the-badge&logo=node.js&logoColor=white)](https://contractsense-seven.vercel.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhannaeem00/contractsense)
 
 | | |
 |:---|:---|
 | **Stack** | React · Node.js · Express · MongoDB · Groq LLaMA3-70B · PDFKit |
-| **Features** | JWT Auth · PDF/DOCX parsing · AI risk analysis · Background processing · PDF reports |
-| **Highlights** | 202 async pipeline · real-time polling · clause-by-clause risk scoring · deadline intelligence |
-| **Deployment** | Vercel (frontend + backend) · MongoDB Atlas — **$0/month infrastructure** |
+| **Architecture** | Non-blocking 202 async pipeline · background AI processing · real-time status polling |
+| **AI Layer** | Clause extraction · risk scoring (LOW / MEDIUM / HIGH) · negotiation recommendations |
+| **Infrastructure** | Vercel + MongoDB Atlas · production-scale deployment at zero infrastructure cost |
 
 </div>
 
 <br/>
 
+<!-- ─── MORE PROJECT CARDS ─── -->
 <div align="center">
 
-> 📂 **14+ more repositories** — AI pipelines · ML models · full-stack apps · agentic systems
+[![ContractSense](https://github-readme-stats.vercel.app/api/pin/?username=farhannaeem00&repo=contractsense&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=6366f1)](https://github.com/farhannaeem00/contractsense)
 
-[![Explore All Repos](https://img.shields.io/badge/→_Explore_All_Repositories-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhannaeem00?tab=repositories)
+</div>
+
+<div align="center">
+
+> 📂 **14+ repositories** — full-stack platforms · RAG pipelines · ML systems · agentic workflows
+
+[![Explore All Repos](https://img.shields.io/badge/Explore_All_14%2B_Repositories_→-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhannaeem00?tab=repositories)
 
 </div>
 
 ---
 
-<!-- ─── ACHIEVEMENTS ─── -->
-## 🏅 Highlights & Achievements
+## 🏅 Proof of Work
 
 <div align="center">
 
-| 🔢 | Achievement |
+| | What Was Delivered |
 |:---:|:---|
-| 🚀 | Shipped a **production-grade AI SaaS** — deployed, live, and fully functional |
-| 🤖 | Built **end-to-end LLM pipelines** using LangChain, LangGraph, and Groq inference |
-| 🧠 | Trained and fine-tuned **deep learning models** with PyTorch for real-world tasks |
-| 📦 | Maintains **14+ public repositories** spanning web, AI, and ML domains |
-| ⚡ | Designed **zero-cost cloud infrastructure** capable of serving real users at scale |
-| 🌍 | Solved a real legal access problem — contract review for people who can't afford lawyers |
+| 🚀 | **Engineered & deployed a production AI SaaS** — live, scalable, serving real users at zero infrastructure cost |
+| 🤖 | **Built end-to-end LLM pipelines** — LangChain agents, Groq inference, and RAG systems embedded in real products |
+| 🧠 | **Designed & deployed ML systems** — PyTorch models trained, evaluated, and pushed to inference across NLP and CV tasks |
+| 🕸️ | **Architected multi-agent AI workflows** — LangGraph-based systems capable of autonomous reasoning and task execution |
+| 📦 | **Maintains 14+ active repositories** — spanning full-stack SaaS, AI pipelines, and deep learning experiments |
+| ⚡ | **Full-stack ownership** — sole architect and engineer on systems covering DB schema, API layer, frontend, and AI integration |
 
 </div>
 
 ---
 
-<!-- ─── GITHUB ANALYTICS ─── -->
-## 📊 GitHub Analytics
+## 📊 GitHub Metrics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhannaeem00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=6366f1&icon_color=6366f1" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhannaeem00&theme=tokyonight&hide_border=true&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhannaeem00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=6366f1&icon_color=6366f1"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhannaeem00&theme=tokyonight&hide_border=true&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhannaeem00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=6366f1" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=farhannaeem00&theme=tokyo-night&hide_border=true&area=true&point=6366f1&line=6366f1&color=dde1e7&area_color=6366f1" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhannaeem00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=6366f1"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=farhannaeem00&theme=tokyo-night&hide_border=true&area=true&point=6366f1&line=6366f1&color=dde1e7&area_color=6366f1"/>
 </div>
 
----
-
-<!-- ─── TROPHIES ─── -->
-## 🏆 GitHub Trophies
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farhannaeem00&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=6366f1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=farhannaeem00&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
 </div>
 
 ---
 
-<!-- ─── CONTRIBUTION SNAKE ─── -->
-## 🐍 Contribution Activity
-
-<!--
-  ══════════════════════════════════════════════════════
-  ONE-TIME SETUP (2 minutes):
-  1. Go to repo Settings → Actions → General
-  2. Set "Workflow permissions" → Read and write
-  3. Create: .github/workflows/snake.yml with content:
+<!-- CONTRIBUTION SNAKE
+  ══════════════════════════════════════════════════════════════
+  ONE-TIME SETUP — create .github/workflows/snake.yml:
 
   name: Snake
   on:
@@ -229,33 +241,22 @@ const farhan: Developer = {
             build_dir: dist
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ══════════════════════════════════════════════════════
--->
+  ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhannaeem00/farhannaeem00/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/farhannaeem00/farhannaeem00/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhannaeem00/farhannaeem00/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/farhannaeem00/farhannaeem00/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/farhannaeem00/farhannaeem00/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
 ---
 
-<!-- ─── QUOTE ─── -->
-## 💭 Today's Dev Quote
+## 💡 Engineering Mindset
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-<!-- ─── FUN SECTION ─── -->
-## 😄 A Little Personality
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
 <br/>
@@ -263,51 +264,37 @@ const farhan: Developer = {
 <div align="center">
 
 ```
-Things I believe as a developer:
-─────────────────────────────────────────────────────
-  ✅  Ship early, iterate fast, learn constantly.
-  ✅  The best code is code that actually helps someone.
-  ✅  AI is a tool — the engineer who wields it still matters.
-  ✅  Documentation is a love letter to your future self.
-  ✅  Every complex problem has a simple, elegant solution.
-                         (You just have to find it.)
-─────────────────────────────────────────────────────
+  ✦  Code is a means, not the end — ship things that help people.
+  ✦  AI amplifies engineers. The engineer still has to be great.
+  ✦  Every complex system has one clean solution. Find it. Ship it.
 ```
 
 </div>
 
 ---
 
-<!-- ─── LET'S CONNECT ─── -->
-## 🤝 Let's Build Something Together
+## 😄 Meanwhile...
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-I'm looking for people building things that **actually matter**.
-
-If you're working on a **full-stack product**, an **AI-integrated platform**, an **open source project**, or a **startup** — and you need someone who can own the full engineering + AI layer from day one:
-
-</div>
+**Building a product, starting a company, or need an engineer who owns the full stack + AI layer?**
+<br/>
+I'm open to collaborations, freelance work, and startup opportunities.
+Typically respond within 24 hours.
 
 <br/>
 
-<div align="center">
-
-| Channel | Details |
-|:---:|:---|
-| 📧 **Email** | [farhan.naeem874@gmail.com](mailto:farhan.naeem874@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/farhan-naeem-297bb1373](https://www.linkedin.com/in/farhan-naeem-297bb1373) |
-| 🐙 **GitHub** | [github.com/farhannaeem00](https://github.com/farhannaeem00) |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Send Email](https://img.shields.io/badge/📧_Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhan.naeem874@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/💼_Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-naeem-297bb1373)
-[![Explore GitHub](https://img.shields.io/badge/🐙_Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhannaeem00)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhan.naeem874@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-naeem-297bb1373)
+[![GitHub](https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhannaeem00)
 
 </div>
 
@@ -315,11 +302,11 @@ If you're working on a **full-stack product**, an **AI-integrated platform**, an
 
 <div align="center">
   <sub>
-    ⭐ <b>If something here impressed you — a star on any repo means the world.</b><br/>
-    Built with 🧠 precision, ☕ caffeine, and a relentless drive to <b>ship things that matter.</b><br/><br/>
-    <i>— Farhan Naeem</i>
+    <i>Engineered with precision and a relentless drive to build things that matter.</i><br/>
+    <b>— Farhan Naeem</b>
   </sub>
 </div>
 
-<!-- DYNAMIC COLOR-SHIFTING FOOTER -->
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=130&section=footer&animation=twinkling" width="100%"/>
